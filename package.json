@@ -29,7 +29,7 @@
     "web playback"
   ],
   "peerDependencies": {
-    "react": "^16.8.0"
+    "react": "^17.0.0"
   },
   "dependencies": {
     "@gilbarbara/react-range-slider": "^0.6.1",
@@ -74,8 +74,8 @@
     "lint-staged": "^10.5.2",
     "node-fetch": "^2.6.1",
     "prettier": "^2.2.1",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0",
+    "react": "17.0.0",
+    "react-dom": "^17.0.0",
     "repo-tools": "^0.2.0",
     "size-limit": "^4.9.1",
     "ts-jest": "^26.4.4",
